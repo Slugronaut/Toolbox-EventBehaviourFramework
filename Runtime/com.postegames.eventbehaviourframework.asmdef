@@ -1,0 +1,16 @@
+{
+    "name": "com.postegames.eventbehaviourframework",
+    "rootNamespace": "",
+    "references": [
+        "GUID:31f90076cc672e349bb4520c417457cb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

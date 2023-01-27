@@ -1,0 +1,21 @@
+{
+  "name": "com.postegames.eventbehaviourframework",
+  "version": "1.0.0",
+  "displayName": "PEGLIB - Event Behaviour Framework",
+  "description": "Abstract classes that can be used to build more complex behaviours that respond to common unity events.",
+  "unity": "2022.2",
+  "keywords": [
+    "toolbox",
+    "events",
+    "behaviour",
+    "framework"
+  ],
+  "author": {
+    "name": "Sluggy",
+    "email": "jcsluggy@gmail.com",
+    "url": "http:/postegames.com"
+  },
+  "dependencies": {
+    "com.postegames.sharedenums": ""
+  }
+}
