@@ -1,4 +1,3 @@
-using Sirenix.OdinInspector;
 using UnityEngine;
 
 namespace Toolbox
@@ -9,7 +8,7 @@ namespace Toolbox
     /// 
     /// TODO: The OnRelenquish method is no longer used!!
     /// </summary>
-    public abstract class AbstractOperationOnEvent : SerializedMonoBehaviour
+    public abstract class AbstractOperationOnEvent : MonoBehaviour
     {
         [Tooltip("How long after the trigger count is reached before performing the set operation.")]
         public float Delay = 0;
