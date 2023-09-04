@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Toolbox
+namespace Peg
 {
 
     /// <summary>

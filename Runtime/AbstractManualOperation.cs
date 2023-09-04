@@ -6,7 +6,7 @@ using System.Reflection;
 using UnityEngine.SceneManagement;
 using Sirenix.OdinInspector;
 
-namespace Toolbox
+namespace Peg
 {
 
     /// <summary>

@@ -1,7 +1,7 @@
 using UnityEngine;
 using Sirenix.OdinInspector;
 
-namespace Toolbox
+namespace Peg
 {
     /// <summary>
     /// Base class that can be used to implement event triggers.
